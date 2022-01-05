@@ -1,7 +1,7 @@
 ### 嗨！你好！！ 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=zhoyq&show_icons=true&locale=cn" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />    
-<img src="https://github-profile-trophy.vercel.app/?username=zhoyq&no-bg=true&no-frame=true&column=3&row=2&margin-w=15&margin-h=15&theme=flat" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=zhoyq&no-frame=true&column=3&row=2&margin-w=15&margin-h=15&theme=flat" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 
 ### 🎉 欢迎访问我的 Github
 
