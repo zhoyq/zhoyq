@@ -5,8 +5,6 @@
 
 ### 🎉 欢迎访问我的 Github
 
-- 🔭 目前正在实现基于 ThingJs API 的 [三维渲染器](https://github.com/thing-pro)。
-- 👯 关于车联网相关的开源项目，会在渲染器稳定之后进行。
 - 📫 可以通过 feedback#zhoyq.com 联系我，每周检查。
 
 > - [个人博客地址](https://zhoyq.com)
